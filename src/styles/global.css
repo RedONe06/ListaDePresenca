@@ -1,7 +1,11 @@
 *{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    
+}
+
+body{
+    justify-content: space-between;
+    background-color: rgb(140, 172, 225);
 }
 
 h1, h2, p, span {

@@ -3,6 +3,7 @@ import './style.css'
 
 function Card({nome, horario}){
     return (
+        
         <div className="card">
             <p>{nome}</p>
             <Chip label={horario} />
